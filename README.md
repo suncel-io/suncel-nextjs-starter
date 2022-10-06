@@ -30,7 +30,8 @@ On top of that, you have a Block example and a wrapper of the rich text with som
 - Go to the API section, grab your Keys
 - Insert your API Keys in the .env of your project.
 
-###Ready to go
+### Ready to go
+
 -Create your blocks in react.
 -Build your pages with the page builder
 
