@@ -33,7 +33,7 @@ On top of that, you have a Block example and a wrapper of the rich text with som
 
 ### Ready to go
 
-- [Create your blocks](https://docs.suncel.io/developer/getting-started/quick-start) in react.
+- [Create your blocks](https://docs.suncel.io/developer/blocks/create-block) in react.
 - Access the admin via /admin
 - Build your pages with the page builder
 
