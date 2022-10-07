@@ -27,13 +27,15 @@ On top of that, you have a Block example and a wrapper of the rich text with som
 ### API Keys
 
 - After creating an account, head over to the project settings you created earlier.
-- Go to the API section, grab your Keys
+- Go to the API section, grab your Keys.
+- In your project rename the .env.example to .env
 - Insert your API Keys in the .env of your project.
 
 ### Ready to go
 
--Create your blocks in react.
--Build your pages with the page builder
+- [Create your blocks](https://docs.suncel.io/developer/getting-started/quick-start) in react.
+- Access the admin via /admin
+- Build your pages with the page builder
 
 ### **📧 Contact**
 
