@@ -608,10 +608,10 @@
   "resolved" "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
   "version" "1.2.0"
 
-"@suncel/nextjs@^1.0.3":
-  "integrity" "sha512-m16JhEgjTgXxFk5jsxnY/YEkMZOsKCIEwyTjzYHvuEuboxVp+6Ze6W+stDILkAVFf02/4PeDUw9P8hwSlWo6Yg=="
-  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.3.tgz"
-  "version" "1.0.3"
+"@suncel/nextjs@^1.0.4":
+  "integrity" "sha512-Pa0t1hZoFaC4ZMuWnrtVeQy+7a1trAykLof6z91WdDwDae34pN3ectvXkYWP5ssz40vPJANLCBZHATG5f1L0pQ=="
+  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.4.tgz"
+  "version" "1.0.4"
   dependencies:
     "@headlessui/react" "1.7.3"
     "@popperjs/core" "2.11.6"
