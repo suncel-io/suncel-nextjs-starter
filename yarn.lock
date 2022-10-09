@@ -341,10 +341,10 @@
   "resolved" "https://registry.npmjs.org/@emotion/weak-memoize/-/weak-memoize-0.3.0.tgz"
   "version" "0.3.0"
 
-"@eslint/eslintrc@^1.3.2":
-  "integrity" "sha512-AXYd23w1S/bv3fTs3Lz0vjiYemS08jWkI3hYyS9I1ry+0f+Yjs1wm+sU0BS8qDOPrBIkp4qHYC16I8uVtpLajQ=="
-  "resolved" "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.2.tgz"
-  "version" "1.3.2"
+"@eslint/eslintrc@^1.3.3":
+  "integrity" "sha512-uj3pT6Mg+3t39fvLrj8iuCIJ38zKO9FpGtJ4BBJebJhEwjoT+KLVNCcHT5QC9NGRIEi7fZ0ZR8YRb884auB4Lg=="
+  "resolved" "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-1.3.3.tgz"
+  "version" "1.3.3"
   dependencies:
     "ajv" "^6.12.4"
     "debug" "^4.3.2"
@@ -374,11 +374,6 @@
     "@humanwhocodes/object-schema" "^1.2.1"
     "debug" "^4.1.1"
     "minimatch" "^3.0.4"
-
-"@humanwhocodes/gitignore-to-minimatch@^1.0.2":
-  "integrity" "sha512-rSqmMJDdLFUsyxR6FMtD00nfQKKLFb1kv+qBbOVKqErvloEIJLo5bDTJTQNTYgeyp78JsA7u/NPi5jT1GR/MuA=="
-  "resolved" "https://registry.npmjs.org/@humanwhocodes/gitignore-to-minimatch/-/gitignore-to-minimatch-1.0.2.tgz"
-  "version" "1.0.2"
 
 "@humanwhocodes/module-importer@^1.0.1":
   "integrity" "sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA=="
@@ -613,10 +608,10 @@
   "resolved" "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
   "version" "1.2.0"
 
-"@suncel/nextjs@^1.0.0":
-  "integrity" "sha512-zIVXuV8D6qrwDV/kpDMaAmIZ8u6OLLm0v39nUvoqvdaTMhmnUTRoHEGeMJKWDnTusRJL+E4xAnBMAxbh1QrMuA=="
-  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.0.tgz"
-  "version" "1.0.0"
+"@suncel/nextjs@^1.0.2":
+  "integrity" "sha512-iVH2qu8VC2zplsEoshElmjPZZrJNOxAUrqM5aFhkoVVHm8pecvIVHQYVHJyA4vgExCWmhoH4mYZQ1YNhkxuuWQ=="
+  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.2.tgz"
+  "version" "1.0.2"
   dependencies:
     "@headlessui/react" "1.7.3"
     "@popperjs/core" "2.11.6"
@@ -864,10 +859,10 @@
   "resolved" "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   "version" "0.0.29"
 
-"@types/node@18.8.2":
-  "integrity" "sha512-cRMwIgdDN43GO4xMWAfJAecYn8wV4JbsOGHNfNUIDiuYkUYAR5ec4Rj7IO2SAhFPEfpPtLtUTbbny/TCT7aDwA=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.8.2.tgz"
-  "version" "18.8.2"
+"@types/node@18.8.3":
+  "integrity" "sha512-0os9vz6BpGwxGe9LOhgP/ncvYN5Tx1fNcd2TM3rD/aCGBkysb+ZWpXEocG24h6ZzOi13+VB8HndAQFezsSOw1w=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.8.3.tgz"
+  "version" "18.8.3"
 
 "@types/parse-json@^4.0.0":
   "integrity" "sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA=="
@@ -2032,14 +2027,13 @@
   "resolved" "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz"
   "version" "3.3.0"
 
-"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.23.0 || ^8.0.0", "eslint@>=5", "eslint@8.24.0":
-  "integrity" "sha512-dWFaPhGhTAiPcCgm3f6LI2MBWbogMnTJzFBbhXVRQDJPkr9pGZvVjlVfXd+vyDcWPA2Ic9L2AXPIQM0+vk/cSQ=="
-  "resolved" "https://registry.npmjs.org/eslint/-/eslint-8.24.0.tgz"
-  "version" "8.24.0"
+"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.23.0 || ^8.0.0", "eslint@>=5", "eslint@8.25.0":
+  "integrity" "sha512-DVlJOZ4Pn50zcKW5bYH7GQK/9MsoQG2d5eDH0ebEkE8PbgzTTmtt/VTH9GGJ4BfeZCpBLqFfvsjX35UacUL83A=="
+  "resolved" "https://registry.npmjs.org/eslint/-/eslint-8.25.0.tgz"
+  "version" "8.25.0"
   dependencies:
-    "@eslint/eslintrc" "^1.3.2"
+    "@eslint/eslintrc" "^1.3.3"
     "@humanwhocodes/config-array" "^0.10.5"
-    "@humanwhocodes/gitignore-to-minimatch" "^1.0.2"
     "@humanwhocodes/module-importer" "^1.0.1"
     "ajv" "^6.10.0"
     "chalk" "^4.0.0"
