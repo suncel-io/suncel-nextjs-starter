@@ -608,10 +608,10 @@
   "resolved" "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
   "version" "1.2.0"
 
-"@suncel/nextjs@^1.0.5":
-  "integrity" "sha512-WMCy7wc29rwCdjmqpXhHenBanI+QpRu9XUC1jUKCACIOm3CneVB745SCbeNcqwwIpmXkAsX/4xfJ5T2/9jmX7g=="
-  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.5.tgz"
-  "version" "1.0.5"
+"@suncel/nextjs@^1.0.6":
+  "integrity" "sha512-5JiO2fG/THXwD52sF5/ow163WxkaQ0QTYnxQfmIeAkyWIBfesOHjCjKsarCIiqOyX0DD+msUW42XEbW0/KMO5A=="
+  "resolved" "https://registry.npmjs.org/@suncel/nextjs/-/nextjs-1.0.6.tgz"
+  "version" "1.0.6"
   dependencies:
     "@headlessui/react" "1.7.3"
     "@popperjs/core" "2.11.6"
@@ -859,10 +859,10 @@
   "resolved" "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   "version" "0.0.29"
 
-"@types/node@18.8.3":
-  "integrity" "sha512-0os9vz6BpGwxGe9LOhgP/ncvYN5Tx1fNcd2TM3rD/aCGBkysb+ZWpXEocG24h6ZzOi13+VB8HndAQFezsSOw1w=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.8.3.tgz"
-  "version" "18.8.3"
+"@types/node@18.8.5":
+  "integrity" "sha512-Bq7G3AErwe5A/Zki5fdD3O6+0zDChhg671NfPjtIcbtzDNZTv4NPKMRFr7gtYPG7y+B8uTiNK4Ngd9T0FTar6Q=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.8.5.tgz"
+  "version" "18.8.5"
 
 "@types/parse-json@^4.0.0":
   "integrity" "sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA=="
