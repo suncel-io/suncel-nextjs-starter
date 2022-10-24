@@ -5,7 +5,6 @@ export const AnnounceBarSchema: GlobalSchema = {
   name: "Announce bar",
   fields: [
     {
-      slug: "announce_bar",
       name: "Announce bar",
       type: "group",
       fields: [
