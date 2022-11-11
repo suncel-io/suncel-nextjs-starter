@@ -28,6 +28,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
       // Pass the page props related to Suncel into the suncel prop
       suncel: suncelProps,
     },
+    revalidate: 10,
   };
 };
 
